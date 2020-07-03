@@ -14,10 +14,12 @@ Run npm start from the client directory to start the React app</li>
 ### `npm run-script build`
 ### `npm start`
 
+Visit http://localhost:3000
+
 Run npm start from server to start the Express app
 ### `cd ..`
 ### `npm start`
 
-Visit http://localhost:3000
+
 
 

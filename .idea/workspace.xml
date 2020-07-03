@@ -2,8 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1521adf-bc60-4432-8716-999bdeb722ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/DinamicAlert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/FilterBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/IconAnimation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/IconAnimation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/OptionsSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ProductCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ProductModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SearchFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ShopCartDrawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ShopProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UpperBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/cart/CartDrawer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/cart/CartDrawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/cart/CartElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/cart/CartElementContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/cart/CartPriceSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/customer/CustomerRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/customer/CustomersList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/customer/CustomersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/order/BuildOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/order/CreateUserOrderPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/order/OrderRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/order/Orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/order/UserOrdersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/payment/PaymentForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/ProductFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/ProductList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/ProductRowDetails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/ProductRowDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/resources/Bovinos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/resources/Caninos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/resources/Caprinos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/resources/Equinos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/resources/Felinos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/resources/Ovinos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/product/resources/Porcinos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/AmountField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/CommonModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/SearchRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/amountField.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplier/Reception.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplier/ReceptionModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplier/ReceptionRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplier/SupplierOrderRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplier/SupplierOrders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplierOrder/SupplierOrderPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplierOrder/SupplierProductFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplierOrder/SupplierProductRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplierOrder/SupplierProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/supplierOrder/supplierProductRow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Backoffice/AdminProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Backoffice/ClientOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Backoffice/Clients.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Backoffice/Providers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/ContactUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Faq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Home.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/NewCustomer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Presentation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/SignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/providers/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/providers/Fire.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/providers/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/providers/authToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/providers/withAdmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App/pages/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/registerServiceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/serviceWorker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +118,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -50,11 +152,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593741540538</updated>
-      <workItem from="1593741545284" duration="712000" />
+      <workItem from="1593741545284" duration="1448000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593742637939">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="453" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1593742637939" />
+    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1593742999567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593742999567" />
   </component>
 </project>
